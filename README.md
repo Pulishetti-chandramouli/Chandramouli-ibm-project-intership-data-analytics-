@@ -1,4 +1,4 @@
-# P Abhilash Goud — Customer Churn Prediction
+# P Chandramouli — Customer Churn Prediction
 
 ## Project
 AI Predicts What Happens Next: Customer Churn Prediction.
@@ -21,15 +21,15 @@ Identify customers who may be at risk of churn using historical transaction beha
 - Recall: 70.97%
 
 ## Files
-- `P_Abhilash_Goud_Customer_Churn_Prediction.ipynb`
+- `P_Chandramouli_Customer_Churn_Prediction.ipynb`
 - `requirements.txt`
 - `P_Abhilash_Goud_ProjectReport.docx`
 - `README.md`
-- `P_Abhilash_Goud_Customer_Churn_Output.xlsx`
+- `P_Chandramouli_Customer_Churn_Output.xlsx`
 - `data/cleaned_customer_transactions.csv`
 
 ## Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook P_Abhilash_Goud_Customer_Churn_Prediction.ipynb
+jupyter notebook P_Chandramouli_Customer_Churn_Prediction.ipynb
 ```
